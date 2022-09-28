@@ -48,7 +48,7 @@ https://arduino.cc - download 1.8.x
   <tr>
     <td>6</td>
     <td>Print Distance of the Object on Serial Monitor</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/nitw-hands-on-fdp/tree/main/task6">Code</a></td>
   </tr>
   <tr>
     <td>7</td>
