@@ -57,7 +57,7 @@ https://arduino.cc - download 1.8.x
   </tr>
   <tr>
     <td>8</td>
-    <td>Rotate Servo Motor from 0 to 180</td>
+    <td>Rotate Servo Motor from 0 to 90</td>
     <td><a href="https://github.com/maddydevgits/nitw-hands-on-fdp/tree/main/task8">Code</a></td>
   </tr>
   <tr>
