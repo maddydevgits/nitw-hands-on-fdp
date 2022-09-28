@@ -67,8 +67,8 @@ https://arduino.cc - download 1.8.x
   </tr>
   <tr>
     <td>10</td>
-    <td></td>
-    <td></td>
+    <td>Apply Data Pre-Processing on Data Stream</td>
+    <td><a href="">Code</td>
   </tr>
   
 </table>
