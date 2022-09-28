@@ -98,8 +98,6 @@ void loop() {
     Serial.print("Publish message: ");
     dht.begin();
     
-    if(isnan(h) || isnan(t))
-      return;
     snprintf (msg, MSG_BUFFER_SIZE, "Humidity: %f, Temperature: %f ", dht.readHumidity(),dht.readTemperature());
     client.publish("nitw/fdp", msg);
   }
