@@ -60,6 +60,16 @@ https://arduino.cc - download 1.8.x
     <td>Rotate Servo Motor from 0 to 180</td>
     <td></td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>Data Collection from ESP32 to Google Colab</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
   
 </table>
 # For questions
