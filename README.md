@@ -35,6 +35,32 @@ https://arduino.cc - download 1.8.x
     <td>Print Object Detection on Serial Monitor</td>
     <td></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Print Soil Status on Serial Monitor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Print Alcohol Status on Serial Monitor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Print Distance of the Object on Serial Monitor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Print Humidity and Temperature on Serial Monitor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Rotate Servo Motor from 0 to 180</td>
+    <td></td>
+  </tr>
+  
 </table>
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
