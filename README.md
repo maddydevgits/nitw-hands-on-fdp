@@ -77,5 +77,13 @@ https://arduino.cc - download 1.8.x
   </tr>
   
 </table>
+
+# References
+1. https://github.com/maddydevgits/nit-trichy-iot-fdp-session
+2. https://www.youtube.com/watch?v=oeGy2A6h-KI&list=PLn6ePjGEQo66nqnv1r5Q7WGOXIdoVYVSe
+3. https://aws.amazon.com
+4. https://broker.hivemq.com
+
+
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
