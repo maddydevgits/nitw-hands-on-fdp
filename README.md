@@ -83,6 +83,7 @@ https://arduino.cc - download 1.8.x
 2. https://www.youtube.com/watch?v=oeGy2A6h-KI&list=PLn6ePjGEQo66nqnv1r5Q7WGOXIdoVYVSe
 3. https://aws.amazon.com
 4. https://broker.hivemq.com
+5. https://www.youtube.com/watch?v=m7C8wnS4FRs&list=PLn6ePjGEQo66nqnv1r5Q7WGOXIdoVYVSe&index=12
 
 
 # For questions
