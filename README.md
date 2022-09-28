@@ -28,7 +28,7 @@ https://arduino.cc - download 1.8.x
   <tr>
     <td>2</td>
     <td>Print Light Intensity Status on Serial Monitor</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/nitw-hands-on-fdp/tree/main/task2">Code</a></td>
   </tr>
   <tr>
     <td>3</td>
