@@ -72,7 +72,7 @@ https://arduino.cc - download 1.8.x
   </tr>
   <tr>
     <td>11</td>
-    <td>Apply Machine Learning Model on the Dataset</td>
+    <td>Publish Data to AWS IoT</td>
     <td></td>
   </tr>
   
