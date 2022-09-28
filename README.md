@@ -23,7 +23,7 @@ https://arduino.cc - download 1.8.x
   <tr>
     <td>1</td>
     <td>Print Hello NIT Warangal on Serial Monitor</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/nitw-hands-on-fdp/tree/main/task1">Code</a></td>
   </tr>
   <tr>
     <td>2</td>
