@@ -70,6 +70,11 @@ https://arduino.cc - download 1.8.x
     <td>Apply Data Pre-Processing on Data Stream</td>
     <td><a href="">Code</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Apply Machine Learning Model on the Dataset</td>
+    <td></td>
+  </tr>
   
 </table>
 # For questions
