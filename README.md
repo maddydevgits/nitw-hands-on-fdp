@@ -33,7 +33,7 @@ https://arduino.cc - download 1.8.x
   <tr>
     <td>3</td>
     <td>Print Object Detection on Serial Monitor</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/nitw-hands-on-fdp/tree/main/task3">Code</a></td>
   </tr>
   <tr>
     <td>4</td>
